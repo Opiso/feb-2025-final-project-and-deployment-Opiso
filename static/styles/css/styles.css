@@ -52,6 +52,14 @@ table {
     border: 1px solid #ccb6b6;
     
   }
+  .sign-up-link{
+    text-decoration: none;
+  }
+  .sign-up-link:hover{
+    color: blueviolet;
+    border-bottom: 1px solid blueviolet;
+    transition: 0.3s ease-in-out;
+    }
   
   table tbody tr {
     background-color: #f3f3f3;
